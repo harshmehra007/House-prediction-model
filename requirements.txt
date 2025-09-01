@@ -1,0 +1,5 @@
+├── Model.pkl                # Trained ML Model  
+├── house_app.py              # Streamlit App  
+├── requirements.txt          # Dependencies  
+├── dataset.csv               # Housing Dataset  
+└── README.md                 # Project Documentation  
